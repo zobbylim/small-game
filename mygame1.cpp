@@ -35,7 +35,7 @@ char getPlayerChoice(){
     char player;
 
     do{
-        std::cout << "******SIMPLE RPG GAME*******\n";
+        std::cout << "******A SIMPLE GAME*******\n";
         std::cout << "'w' = Warrior\n";
         std::cout << "'a' = Assassin\n";
         std::cout << "'b' = Bowman\n";
